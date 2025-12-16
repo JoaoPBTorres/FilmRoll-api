@@ -1,0 +1,16 @@
+{
+    "name": "joaopedro/film-roll-api",
+    "description": "Back-End Film Roll",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "João Pedro",
+            "email": "joaopedrotorres366@gmail.com"
+        }
+    ],
+    "require": {}
+}
